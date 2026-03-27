@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka27336-remeha-mono-2-awhp-12-tr-binnendeel-mbconfida-10confida-40",
+  "source_file": "",
+  "page_title": "KA27336 Remeha Mono 2 AWHP 12 TR + (Binnendeel \"MB\"/Confida 10/Confida 40)",
+  "parsed_timestamp": "2026-03-27T12:12:22Z",
+  "category": "warmtepomp",
+  "meldcode": "KA27336",
+  "fabrikant": "Remeha",
+  "model": "Mono 2 AWHP 12 TR + (Binnendeel \"MB\"/Confida 10/Confida 40)",
+  "vermogen_kw": 11.0,
+  "vermogen_origineel": "11kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3700.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.700"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2475.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.475"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 3700.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€3.700"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 3825.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€3.825"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

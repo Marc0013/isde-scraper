@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka22492-rhoss-midipack-i-eco-thaiti-148",
+  "source_file": "",
+  "page_title": "KA22492 Rhoss MidiPACK-I ECO THAITI 148",
+  "parsed_timestamp": "2026-03-27T12:27:01Z",
+  "category": "warmtepomp",
+  "meldcode": "KA22492",
+  "fabrikant": "Rhoss",
+  "model": "MidiPACK-I ECO THAITI 148",
+  "vermogen_kw": 39.0,
+  "vermogen_origineel": "39kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 9800.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€9.800"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 8775.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€8.775"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 9800.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€9.800"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 7800.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€7.800"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

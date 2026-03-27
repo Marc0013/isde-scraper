@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31608-remko-hts-205",
+  "source_file": "",
+  "page_title": "KA31608 Remko HTS 205",
+  "parsed_timestamp": "2026-03-27T11:37:06Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31608",
+  "fabrikant": "Remko",
+  "model": "HTS 205",
+  "vermogen_kw": 9.0,
+  "vermogen_origineel": "9kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3250.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.250"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2025.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.025"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

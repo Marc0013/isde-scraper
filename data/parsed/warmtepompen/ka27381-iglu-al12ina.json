@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka27381-iglu-al12ina",
+  "source_file": "",
+  "page_title": "KA27381 IGLU AL12INA***",
+  "parsed_timestamp": "2026-03-27T12:11:19Z",
+  "category": "warmtepomp",
+  "meldcode": "KA27381",
+  "fabrikant": "IGLU",
+  "model": "AL12INA***",
+  "vermogen_kw": 12.0,
+  "vermogen_origineel": "12kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.725"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 4725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€4.725"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 4725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€4.725"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

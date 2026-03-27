@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31232-interclima-mta-icyn-hp-012",
+  "source_file": "",
+  "page_title": "KA31232 InterClima-MTA iCYN HP 012",
+  "parsed_timestamp": "2026-03-27T11:38:55Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31232",
+  "fabrikant": "InterClima-MTA",
+  "model": "iCYN HP 012",
+  "vermogen_kw": 29.0,
+  "vermogen_origineel": "29kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 7550.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€7.550"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 6525.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€6.525"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 7550.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€7.550"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

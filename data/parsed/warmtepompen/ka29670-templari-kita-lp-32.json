@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka29670-templari-kita-lp-32",
+  "source_file": "",
+  "page_title": "KA29670 Templari Kita LP-32",
+  "parsed_timestamp": "2026-03-27T11:52:12Z",
+  "category": "warmtepomp",
+  "meldcode": "KA29670",
+  "fabrikant": "Templari",
+  "model": "Kita LP-32",
+  "vermogen_kw": 23.0,
+  "vermogen_origineel": "23kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 6400.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€6.400"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 5175.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€5.175"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 6400.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€6.400"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

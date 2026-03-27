@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31636-quatt-amh6-2",
+  "source_file": "",
+  "page_title": "KA31636 Quatt AMH6-2",
+  "parsed_timestamp": "2026-03-27T11:35:52Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31636",
+  "fabrikant": "Quatt",
+  "model": "AMH6-2",
+  "vermogen_kw": 8.0,
+  "vermogen_origineel": "8kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2825.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€2.825"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1800.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€1.800"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

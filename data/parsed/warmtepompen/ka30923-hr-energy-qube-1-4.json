@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30923-hr-energy-qube-1-4",
+  "source_file": "",
+  "page_title": "KA30923 HR energy Qube 1-4",
+  "parsed_timestamp": "2026-03-27T11:42:35Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30923",
+  "fabrikant": "HR energy",
+  "model": "Qube 1-4",
+  "vermogen_kw": 5.0,
+  "vermogen_origineel": "5kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.425"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 4425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€4.425"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 4425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€4.425"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka17842-mitsubishi-electric-puhz-shw80-yaa-erst30c-vm2d",
+  "source_file": "",
+  "page_title": "KA17842 Mitsubishi Electric PUHZ-SHW80 YAA + ERST30C-VM2D",
+  "parsed_timestamp": "2026-03-27T12:40:40Z",
+  "category": "warmtepomp",
+  "meldcode": "KA17842",
+  "fabrikant": "Mitsubishi Electric",
+  "model": "PUHZ-SHW80 YAA + ERST30C-VM2D",
+  "vermogen_kw": 9.0,
+  "vermogen_origineel": "9kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3050.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.050"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2025.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.025"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 3050.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€3.050"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 3300.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€3.300"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

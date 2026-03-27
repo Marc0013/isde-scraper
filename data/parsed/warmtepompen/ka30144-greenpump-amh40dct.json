@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30144-greenpump-amh40dct",
+  "source_file": "",
+  "page_title": "KA30144 GreenPump AMH40DCT",
+  "parsed_timestamp": "2026-03-27T11:48:43Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30144",
+  "fabrikant": "GreenPump",
+  "model": "AMH40DCT",
+  "vermogen_kw": 28.0,
+  "vermogen_origineel": "28kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 7325.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€7.325"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 6300.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€6.300"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 7325.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€7.325"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,68 @@
+# ISDE Subsidie Scraper - Instellingen
+
+scraper:
+  allowed_domains:
+    - rvo.nl
+    - www.rvo.nl
+
+  target_years:
+    - 2024
+    - 2025
+
+  target_categories:
+    - isolatie
+    - warmtepomp
+
+  request_delay_seconds: 1.5
+  request_timeout_seconds: 30
+  max_retries: 2
+  max_pages_per_run: 60
+  user_agent: "Mozilla/5.0 (compatible; ISDE-subsidie-scraper/1.0; research)"
+
+  # Termen die een URL/linktekst MOET bevatten om gevolgd te worden.
+  # Let op: "subsidie" bewust weggelaten — te breed, matcht alle RVO-pagina's.
+  relevant_keywords:
+    - isde
+    - isolatie
+    - warmtepomp
+    - meldcode
+    - meldcodelijst
+    - productlijst
+    - subsidietabel
+    - isolatiematerialen
+    - isolatiemaatregelen
+
+  skip_extensions:
+    - .jpg
+    - .jpeg
+    - .png
+    - .gif
+    - .svg
+    - .ico
+    - .css
+    - .js
+    - .woff
+    - .woff2
+
+paths:
+  data_raw_html: data/raw/html
+  data_raw_pdf: data/raw/pdf
+  data_raw_metadata: data/raw/metadata
+  data_parsed_isolatie: data/parsed/isolatie
+  data_parsed_warmtepompen: data/parsed/warmtepompen
+  data_normalized_2024: data/normalized/2024
+  data_normalized_2025: data/normalized/2025
+  data_comparison: data/comparison
+  logs: logs
+  visited_urls_file: data/raw/metadata/visited_urls.json
+
+logging:
+  level: INFO
+  log_to_file: true
+  log_filename: logs/scraper.log
+
+output:
+  comparison_isolatie_csv: data/comparison/isde_isolatie_vergelijking.csv
+  comparison_isolatie_json: data/comparison/isde_isolatie_vergelijking.json
+  comparison_warmtepomp_csv: data/comparison/isde_warmtepompen_vergelijking.csv
+  comparison_warmtepomp_json: data/comparison/isde_warmtepompen_vergelijking.json

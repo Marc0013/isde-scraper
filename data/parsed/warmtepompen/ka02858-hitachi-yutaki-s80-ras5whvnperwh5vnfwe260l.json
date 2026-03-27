@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka02858-hitachi-yutaki-s80-ras5whvnperwh5vnfwe260l",
+  "source_file": "",
+  "page_title": "KA02858 Hitachi Yutaki-S80 RAS5WH(V)NPE+RWH5(V)NFWE+260L",
+  "parsed_timestamp": "2026-03-27T12:51:37Z",
+  "category": "warmtepomp",
+  "meldcode": "KA02858",
+  "fabrikant": "Hitachi",
+  "model": "Yutaki-S80 RAS5WH(V)NPE+RWH5(V)NFWE+260L",
+  "vermogen_kw": 14.0,
+  "vermogen_origineel": "14kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4175.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.175"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3150.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€3.150"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 4175.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€4.175"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 4050.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€4.050"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

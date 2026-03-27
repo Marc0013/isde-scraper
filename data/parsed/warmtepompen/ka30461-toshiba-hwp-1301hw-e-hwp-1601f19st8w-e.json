@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30461-toshiba-hwp-1301hw-e-hwp-1601f19st8w-e",
+  "source_file": "",
+  "page_title": "KA30461 Toshiba HWP-1301HW-E + HWP-1601F19ST8W-E",
+  "parsed_timestamp": "2026-03-27T11:44:51Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30461",
+  "fabrikant": "Toshiba",
+  "model": "HWP-1301HW-E + HWP-1601F19ST8W-E",
+  "vermogen_kw": 11.0,
+  "vermogen_origineel": "11kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3700.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.700"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2475.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.475"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 3700.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€3.700"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

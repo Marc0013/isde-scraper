@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka05758-smartheat-bravour-i-012-bwi",
+  "source_file": "",
+  "page_title": "KA05758 SmartHeat Bravour-i 012 BWi",
+  "parsed_timestamp": "2026-03-27T12:51:05Z",
+  "category": "warmtepomp",
+  "meldcode": "KA05758",
+  "fabrikant": "SmartHeat",
+  "model": "Bravour-i 012 BWi",
+  "vermogen_kw": 12.0,
+  "vermogen_origineel": "12kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4500.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.500"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 4500.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€4.500"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 4500.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€4.500"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://www.rvo.nl/sites/default/files/2025-05/ISDE-Excel-apparaten-in-meerdere-woningen.xls",
+  "domain": "rvo.nl",
+  "file_type": "xls",
+  "download_timestamp": "2026-03-27T09:26:36Z",
+  "file_path": "C:\\Users\\info\\OneDrive\\Documents\\Ontwikkeling website\\Tools en templates\\Scaper ISDE subsidies\\data\\raw\\pdf\\www.rvo.nl_sites_default_files_2025-05_ISDE-Excel-apparaten-_81fd0266.xls",
+  "file_size_bytes": 26624,
+  "http_status": 200,
+  "content_type": "application/vnd.ms-excel",
+  "page_title": null,
+  "source_page": null,
+  "detected_year": null,
+  "year_detection_method": null,
+  "category": null,
+  "blocked_external_links": []
+}

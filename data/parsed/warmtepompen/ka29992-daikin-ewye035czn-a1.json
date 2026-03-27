@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka29992-daikin-ewye035czn-a1",
+  "source_file": "",
+  "page_title": "KA29992 Daikin EWYE035CZN-A1",
+  "parsed_timestamp": "2026-03-27T11:50:13Z",
+  "category": "warmtepomp",
+  "meldcode": "KA29992",
+  "fabrikant": "Daikin",
+  "model": "EWYE035CZN-A1",
+  "vermogen_kw": 22.0,
+  "vermogen_origineel": "22kW",
+  "naam_koudemiddel": "R454C",
+  "gwp": 146,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 5975.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€5.975"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4950.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€4.950"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 5975.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€5.975"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

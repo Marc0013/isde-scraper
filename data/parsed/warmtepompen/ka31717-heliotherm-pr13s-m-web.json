@@ -1,0 +1,27 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31717-heliotherm-pr13s-m-web",
+  "source_file": "",
+  "page_title": "KA31717 Heliotherm PR13S-M-WEB",
+  "parsed_timestamp": "2026-03-27T11:35:14Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31717",
+  "fabrikant": "Heliotherm",
+  "model": "PR13S-M-WEB",
+  "vermogen_kw": 12.0,
+  "vermogen_origineel": "12kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.725"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

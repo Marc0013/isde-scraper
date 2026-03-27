@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31711-sprsun-cgk-080v3l-b",
+  "source_file": "",
+  "page_title": "KA31711 SPRSUN CGK-080V3L-B",
+  "parsed_timestamp": "2026-03-27T11:35:22Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31711",
+  "fabrikant": "SPRSUN",
+  "model": "CGK-080V3L-B",
+  "vermogen_kw": 16.0,
+  "vermogen_origineel": "16kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4825.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.825"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3600.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€3.600"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

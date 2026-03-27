@@ -1,0 +1,27 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31695-kronoterm-etera-m-1-ht-hk-3f-e-bw",
+  "source_file": "",
+  "page_title": "KA31695 KRONOTERM ETERA M-1 HT / HK 3F E (B/W)",
+  "parsed_timestamp": "2026-03-27T11:35:42Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31695",
+  "fabrikant": "KRONOTERM",
+  "model": "ETERA M-1 HT / HK 3F E (B/W)",
+  "vermogen_kw": 12.0,
+  "vermogen_origineel": "12kW",
+  "naam_koudemiddel": "R452B",
+  "gwp": 675,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.725"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

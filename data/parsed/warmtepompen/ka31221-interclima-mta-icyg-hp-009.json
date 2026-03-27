@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31221-interclima-mta-icyg-hp-009",
+  "source_file": "",
+  "page_title": "KA31221 InterClima-MTA iCYG HP 009",
+  "parsed_timestamp": "2026-03-27T11:39:12Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31221",
+  "fabrikant": "InterClima-MTA",
+  "model": "iCYG HP 009",
+  "vermogen_kw": 21.0,
+  "vermogen_origineel": "21kW",
+  "naam_koudemiddel": "R454B",
+  "gwp": 466,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 5750.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€5.750"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4725.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€4.725"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 5750.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€5.750"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

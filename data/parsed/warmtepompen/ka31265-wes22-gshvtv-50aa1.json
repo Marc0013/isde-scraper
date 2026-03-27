@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31265-wes22-gshvtv-50aa1",
+  "source_file": "",
+  "page_title": "KA31265 WES22 GSHVTV-50AA1",
+  "parsed_timestamp": "2026-03-27T11:38:02Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31265",
+  "fabrikant": "WES22",
+  "model": "GSHVTV-50AA1",
+  "vermogen_kw": 30.0,
+  "vermogen_origineel": "30kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 7975.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€7.975"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 6750.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€6.750"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 7975.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€7.975"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

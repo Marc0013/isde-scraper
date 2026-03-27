@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31572-keyter-kwe-2046-i-ps-ln-r454b",
+  "source_file": "",
+  "page_title": "KA31572 Keyter KWE-2046 I-P/S LN (R454B)",
+  "parsed_timestamp": "2026-03-27T11:37:09Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31572",
+  "fabrikant": "Keyter",
+  "model": "KWE-2046 I-P/S LN (R454B)",
+  "vermogen_kw": 29.0,
+  "vermogen_origineel": "29kW",
+  "naam_koudemiddel": "R454B",
+  "gwp": 466,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 7550.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€7.550"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 6525.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€6.525"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 7550.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€7.550"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

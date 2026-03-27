@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka22878-atag-atag-energion-s-compact-50",
+  "source_file": "",
+  "page_title": "KA22878 ATAG ATAG ENERGION S COMPACT 50",
+  "parsed_timestamp": "2026-03-27T12:26:18Z",
+  "category": "warmtepomp",
+  "meldcode": "KA22878",
+  "fabrikant": "ATAG",
+  "model": "ATAG ENERGION S COMPACT 50",
+  "vermogen_kw": 5.0,
+  "vermogen_origineel": "5kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2350.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€2.350"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1125.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€1.125"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 2350.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€2.350"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 2925.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€2.925"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

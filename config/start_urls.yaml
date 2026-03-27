@@ -1,0 +1,30 @@
+# Startpunten voor de ISDE crawler
+# Uitsluitend rvo.nl pagina's
+
+start_urls:
+  # Geverifieerd 200 OK
+  - url: "https://www.rvo.nl/subsidies-financiering/isde"
+    category: "algemeen"
+    priority: 1
+
+  - url: "https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren"
+    category: "algemeen"
+    priority: 1
+
+  # Meldcodelijsten (directe bronpagina's)
+  - url: "https://www.rvo.nl/subsidies-financiering/isde/meldcodelijsten/isolatiematerialen"
+    category: "isolatie"
+    priority: 1
+
+  - url: "https://www.rvo.nl/subsidies-financiering/isde/meldcodelijsten/warmtepompen"
+    category: "warmtepomp"
+    priority: 1
+
+  # Woningeigenaren subpagina's
+  - url: "https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren/isolatiemaatregelen"
+    category: "isolatie"
+    priority: 2
+
+  - url: "https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren/warmtepomp"
+    category: "warmtepomp"
+    priority: 2

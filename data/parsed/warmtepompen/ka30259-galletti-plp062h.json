@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30259-galletti-plp062h",
+  "source_file": "",
+  "page_title": "KA30259 Galletti PLP062H",
+  "parsed_timestamp": "2026-03-27T11:47:30Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30259",
+  "fabrikant": "Galletti",
+  "model": "PLP062H",
+  "vermogen_kw": 45.0,
+  "vermogen_origineel": "45kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 11350.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€11.350"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 10125.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€10.125"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 11350.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€11.350"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka01121-alpha-innotec-swp-700h",
+  "source_file": "",
+  "page_title": "KA01121 Alpha Innotec SWP 700H",
+  "parsed_timestamp": "2026-03-27T12:54:14Z",
+  "category": "warmtepomp",
+  "meldcode": "KA01121",
+  "fabrikant": "Alpha Innotec",
+  "model": "SWP 700H",
+  "vermogen_kw": 70.0,
+  "vermogen_origineel": "70kW",
+  "naam_koudemiddel": "R134A",
+  "gwp": 1430,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 13200.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€13.200"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 13200.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€13.200"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 13200.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€13.200"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

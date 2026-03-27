@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka21544-midea-mha-v12wd2rn8-b-hbt-a160240cd30gn8-b",
+  "source_file": "",
+  "page_title": "KA21544 Midea MHA-V12W/D2RN8-B + HBT-A160/240CD30GN8-B",
+  "parsed_timestamp": "2026-03-27T12:30:43Z",
+  "category": "warmtepomp",
+  "meldcode": "KA21544",
+  "fabrikant": "Midea",
+  "model": "MHA-V12W/D2RN8-B + HBT-A160/240CD30GN8-B",
+  "vermogen_kw": 10.0,
+  "vermogen_origineel": "10kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3275.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.275"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2250.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.250"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 3275.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€3.275"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 3450.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€3.450"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

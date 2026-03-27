@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31216-your-energy-solution-mmhp-008b1-8kw-r32",
+  "source_file": "",
+  "page_title": "KA31216 Your Energy Solution MMHP-008B1 8kw r32",
+  "parsed_timestamp": "2026-03-27T11:39:20Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31216",
+  "fabrikant": "Your Energy Solution",
+  "model": "MMHP-008B1 8kw r32",
+  "vermogen_kw": 5.0,
+  "vermogen_origineel": "5kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2350.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€2.350"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1125.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€1.125"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 2350.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€2.350"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

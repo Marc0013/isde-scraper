@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka20925-mitsubishi-electric-puhz-shw140yhaerst30c-vm2ed",
+  "source_file": "",
+  "page_title": "KA20925 Mitsubishi Electric PUHZ-SHW140YHA+ERST30C-VM2ED",
+  "parsed_timestamp": "2026-03-27T12:34:16Z",
+  "category": "warmtepomp",
+  "meldcode": "KA20925",
+  "fabrikant": "Mitsubishi Electric",
+  "model": "PUHZ-SHW140YHA+ERST30C-VM2ED",
+  "vermogen_kw": 15.0,
+  "vermogen_origineel": "15kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4400.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.400"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3375.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€3.375"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 4400.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€4.400"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 4200.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€4.200"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

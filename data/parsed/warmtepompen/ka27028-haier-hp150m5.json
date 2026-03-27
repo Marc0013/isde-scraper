@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka27028-haier-hp150m5",
+  "source_file": "",
+  "page_title": "KA27028 Haier HP150M5",
+  "parsed_timestamp": "2026-03-27T12:14:18Z",
+  "category": "warmtepomp",
+  "meldcode": "KA27028",
+  "fabrikant": "Haier",
+  "model": "HP150M5",
+  "vermogen_kw": 0.0,
+  "vermogen_origineel": "0kW",
+  "naam_koudemiddel": "R134A",
+  "gwp": 1430,
+  "categorie": "Warmtepompboiler",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 500.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€500"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 500.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€500"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 500.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€500"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

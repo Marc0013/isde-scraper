@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka28212-masterwatt-dynamis-monoblock-warmtepompboiler-300i",
+  "source_file": "",
+  "page_title": "KA28212 Masterwatt Dynamis Monoblock warmtepompboiler 300i",
+  "parsed_timestamp": "2026-03-27T12:03:22Z",
+  "category": "warmtepomp",
+  "meldcode": "KA28212",
+  "fabrikant": "Masterwatt",
+  "model": "Dynamis Monoblock warmtepompboiler 300i",
+  "vermogen_kw": 0.0,
+  "vermogen_origineel": "0kW",
+  "naam_koudemiddel": "R134A",
+  "gwp": 1430,
+  "categorie": "Warmtepompboiler",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 950.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€950"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 950.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€950"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 950.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€950"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

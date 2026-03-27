@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31632-immergas-magis-m16-top",
+  "source_file": "",
+  "page_title": "KA31632 Immergas Magis M16 Top",
+  "parsed_timestamp": "2026-03-27T11:36:27Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31632",
+  "fabrikant": "Immergas",
+  "model": "Magis M16 Top",
+  "vermogen_kw": 14.0,
+  "vermogen_origineel": "14kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4375.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.375"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3150.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€3.150"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

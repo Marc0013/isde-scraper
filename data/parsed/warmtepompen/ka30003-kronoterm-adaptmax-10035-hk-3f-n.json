@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30003-kronoterm-adaptmax-10035-hk-3f-n",
+  "source_file": "",
+  "page_title": "KA30003 KRONOTERM adaptmax 10035 / HK 3F N",
+  "parsed_timestamp": "2026-03-27T11:49:56Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30003",
+  "fabrikant": "KRONOTERM",
+  "model": "adaptmax 10035 / HK 3F N",
+  "vermogen_kw": 27.0,
+  "vermogen_origineel": "27kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 7300.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€7.300"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 6075.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€6.075"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 7300.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€7.300"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

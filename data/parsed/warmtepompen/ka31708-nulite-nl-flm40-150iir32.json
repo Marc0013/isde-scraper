@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31708-nulite-nl-flm40-150iir32",
+  "source_file": "",
+  "page_title": "KA31708 Nulite NL-FLM40-150II/R32",
+  "parsed_timestamp": "2026-03-27T11:35:23Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31708",
+  "fabrikant": "Nulite",
+  "model": "NL-FLM40-150II/R32",
+  "vermogen_kw": 9.0,
+  "vermogen_origineel": "9kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3250.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.250"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2025.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.025"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

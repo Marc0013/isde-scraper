@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka19981-bosch-compress-5000-aw-38-o",
+  "source_file": "",
+  "page_title": "KA19981 Bosch Compress 5000 AW 38 O",
+  "parsed_timestamp": "2026-03-27T12:36:17Z",
+  "category": "warmtepomp",
+  "meldcode": "KA19981",
+  "fabrikant": "Bosch",
+  "model": "Compress 5000 AW 38 O",
+  "vermogen_kw": 36.0,
+  "vermogen_origineel": "36kW",
+  "naam_koudemiddel": "R407C",
+  "gwp": 1774,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 9125.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€9.125"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 8100.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€8.100"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 9125.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€9.125"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 7350.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€7.350"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

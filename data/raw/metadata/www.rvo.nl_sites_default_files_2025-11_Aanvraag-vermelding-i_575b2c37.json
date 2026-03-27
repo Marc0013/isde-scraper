@@ -1,0 +1,16 @@
+{
+  "url": "https://www.rvo.nl/sites/default/files/2025-11/Aanvraag-vermelding-isolatiematerialen.xlsx",
+  "domain": "rvo.nl",
+  "file_type": "xlsx",
+  "download_timestamp": "2026-03-27T09:26:55Z",
+  "file_path": "C:\\Users\\info\\OneDrive\\Documents\\Ontwikkeling website\\Tools en templates\\Scaper ISDE subsidies\\data\\raw\\pdf\\www.rvo.nl_sites_default_files_2025-11_Aanvraag-vermelding-i_575b2c37.xlsx",
+  "file_size_bytes": 46838,
+  "http_status": 200,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "page_title": null,
+  "source_page": null,
+  "detected_year": null,
+  "year_detection_method": null,
+  "category": null,
+  "blocked_external_links": []
+}

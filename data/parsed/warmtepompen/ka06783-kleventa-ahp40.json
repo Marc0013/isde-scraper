@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka06783-kleventa-ahp40",
+  "source_file": "",
+  "page_title": "KA06783 Kleventa AHP40",
+  "parsed_timestamp": "2026-03-27T12:50:55Z",
+  "category": "warmtepomp",
+  "meldcode": "KA06783",
+  "fabrikant": "Kleventa",
+  "model": "AHP40",
+  "vermogen_kw": 32.0,
+  "vermogen_origineel": "32kW",
+  "naam_koudemiddel": "R407C",
+  "gwp": 1774,
+  "categorie": "Water-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 7725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€7.725"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 7725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€7.725"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 7725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€7.725"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

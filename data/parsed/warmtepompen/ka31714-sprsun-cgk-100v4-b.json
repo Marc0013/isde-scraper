@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31714-sprsun-cgk-100v4-b",
+  "source_file": "",
+  "page_title": "KA31714 SPRSUN CGK-100V4-B",
+  "parsed_timestamp": "2026-03-27T11:35:18Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31714",
+  "fabrikant": "SPRSUN",
+  "model": "CGK-100V4-B",
+  "vermogen_kw": 20.0,
+  "vermogen_origineel": "20kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 5725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€5.725"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4500.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€4.500"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

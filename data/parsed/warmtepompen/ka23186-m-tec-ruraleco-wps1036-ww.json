@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka23186-m-tec-ruraleco-wps1036-ww",
+  "source_file": "",
+  "page_title": "KA23186 M-TEC RuralECO WPS1036 (W/W)",
+  "parsed_timestamp": "2026-03-27T12:25:22Z",
+  "category": "warmtepomp",
+  "meldcode": "KA23186",
+  "fabrikant": "M-TEC",
+  "model": "RuralECO WPS1036 (W/W)",
+  "vermogen_kw": 44.0,
+  "vermogen_origineel": "44kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Water-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 9525.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€9.525"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 9525.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€9.525"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 9525.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€9.525"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

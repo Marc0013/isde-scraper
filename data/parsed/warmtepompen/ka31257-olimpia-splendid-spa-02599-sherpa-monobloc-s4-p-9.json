@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31257-olimpia-splendid-spa-02599-sherpa-monobloc-s4-p-9",
+  "source_file": "",
+  "page_title": "KA31257 Olimpia-Splendid S.p.A. 02599 - SHERPA MONOBLOC S4 P 9",
+  "parsed_timestamp": "2026-03-27T11:38:15Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31257",
+  "fabrikant": "Olimpia-Splendid S.p.A.",
+  "model": "02599 - SHERPA MONOBLOC S4 P 9",
+  "vermogen_kw": 8.0,
+  "vermogen_origineel": "8kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3025.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.025"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1800.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€1.800"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 3025.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€3.025"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

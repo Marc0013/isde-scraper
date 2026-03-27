@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka11499-mitsubishi-electric-qahv-n560ya-hpb-bs-wps500-1",
+  "source_file": "",
+  "page_title": "KA11499 Mitsubishi Electric QAHV-N560YA-HPB(-BS) + WPS500-1",
+  "parsed_timestamp": "2026-03-27T12:49:33Z",
+  "category": "warmtepomp",
+  "meldcode": "KA11499",
+  "fabrikant": "Mitsubishi Electric",
+  "model": "QAHV-N560YA-HPB(-BS) + WPS500-1",
+  "vermogen_kw": 0.0,
+  "vermogen_origineel": "0kW",
+  "naam_koudemiddel": "R744 (CO2)",
+  "gwp": 1,
+  "categorie": "Warmtepompboiler",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 950.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€950"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 950.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€950"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 950.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€950"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

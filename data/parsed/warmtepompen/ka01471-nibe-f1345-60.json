@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka01471-nibe-f1345-60",
+  "source_file": "",
+  "page_title": "KA01471 NIBE F1345-60",
+  "parsed_timestamp": "2026-03-27T12:53:07Z",
+  "category": "warmtepomp",
+  "meldcode": "KA01471",
+  "fabrikant": "NIBE",
+  "model": "F1345-60",
+  "vermogen_kw": 67.0,
+  "vermogen_origineel": "67kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 12975.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€12.975"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 12975.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€12.975"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 12975.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€12.975"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,150 @@
+[
+  {
+    "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31715-sprsun-cgk-151v4-b",
+    "source_file": "",
+    "page_title": "KA31715 SPRSUN CGK-151V4-B",
+    "parsed_timestamp": "2026-03-27T10:04:55Z",
+    "category": "warmtepomp",
+    "meldcode": "KA31715",
+    "fabrikant": "SPRSUN",
+    "model": "CGK-151V4-B",
+    "vermogen_kw": 30.0,
+    "vermogen_origineel": "30kW",
+    "naam_koudemiddel": "R290 (Propaan)",
+    "gwp": 3,
+    "categorie": "Lucht-Water",
+    "subsidiebedragen": [
+      {
+        "jaar": 2026,
+        "bedrag": 7975.0,
+        "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+        "waarde_origineel": "€7.975"
+      },
+      {
+        "jaar": 2026,
+        "bedrag": 6750.0,
+        "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+        "waarde_origineel": "€6.750"
+      }
+    ],
+    "confidence": 0.95,
+    "parse_warnings": [],
+    "opmerking_extractie": ""
+  },
+  {
+    "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31716-sprsun-cgk010v4t300",
+    "source_file": "",
+    "page_title": "KA31716 SPRSUN CGK010V4T300-A",
+    "parsed_timestamp": "2026-03-27T10:04:56Z",
+    "category": "warmtepomp",
+    "meldcode": "KA31716",
+    "fabrikant": "SPRSUN",
+    "model": "CGK010V4T300-A",
+    "vermogen_kw": 0.0,
+    "vermogen_origineel": "0kW",
+    "naam_koudemiddel": "R290 (Propaan)",
+    "gwp": 3,
+    "categorie": "Warmtepompboiler",
+    "subsidiebedragen": [
+      {
+        "jaar": 2026,
+        "bedrag": 725.0,
+        "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+        "waarde_origineel": "€725"
+      }
+    ],
+    "confidence": 0.95,
+    "parse_warnings": [],
+    "opmerking_extractie": ""
+  },
+  {
+    "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31717-heliotherm-pr13s-m-web",
+    "source_file": "",
+    "page_title": "KA31717 Heliotherm PR13S-M-WEB",
+    "parsed_timestamp": "2026-03-27T10:04:58Z",
+    "category": "warmtepomp",
+    "meldcode": "KA31717",
+    "fabrikant": "Heliotherm",
+    "model": "PR13S-M-WEB",
+    "vermogen_kw": 12.0,
+    "vermogen_origineel": "12kW",
+    "naam_koudemiddel": "R410A",
+    "gwp": 2088,
+    "categorie": "Grond-Water",
+    "subsidiebedragen": [
+      {
+        "jaar": 2026,
+        "bedrag": 4725.0,
+        "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+        "waarde_origineel": "€4.725"
+      }
+    ],
+    "confidence": 0.95,
+    "parse_warnings": [],
+    "opmerking_extractie": ""
+  },
+  {
+    "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31712-sprsun-cgk-080v4-b",
+    "source_file": "",
+    "page_title": "KA31712 SPRSUN CGK-080V4-B",
+    "parsed_timestamp": "2026-03-27T10:05:00Z",
+    "category": "warmtepomp",
+    "meldcode": "KA31712",
+    "fabrikant": "SPRSUN",
+    "model": "CGK-080V4-B",
+    "vermogen_kw": 16.0,
+    "vermogen_origineel": "16kW",
+    "naam_koudemiddel": "R290 (Propaan)",
+    "gwp": 3,
+    "categorie": "Lucht-Water",
+    "subsidiebedragen": [
+      {
+        "jaar": 2026,
+        "bedrag": 4825.0,
+        "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+        "waarde_origineel": "€4.825"
+      },
+      {
+        "jaar": 2026,
+        "bedrag": 3600.0,
+        "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+        "waarde_origineel": "€3.600"
+      }
+    ],
+    "confidence": 0.95,
+    "parse_warnings": [],
+    "opmerking_extractie": ""
+  },
+  {
+    "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31713-sprsun-cgk-100v3l-b",
+    "source_file": "",
+    "page_title": "KA31713 SPRSUN CGK-100V3L-B",
+    "parsed_timestamp": "2026-03-27T10:05:01Z",
+    "category": "warmtepomp",
+    "meldcode": "KA31713",
+    "fabrikant": "SPRSUN",
+    "model": "CGK-100V3L-B",
+    "vermogen_kw": 20.0,
+    "vermogen_origineel": "20kW",
+    "naam_koudemiddel": "R032",
+    "gwp": 675,
+    "categorie": "Lucht-Water",
+    "subsidiebedragen": [
+      {
+        "jaar": 2026,
+        "bedrag": 5725.0,
+        "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+        "waarde_origineel": "€5.725"
+      },
+      {
+        "jaar": 2026,
+        "bedrag": 4500.0,
+        "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+        "waarde_origineel": "€4.500"
+      }
+    ],
+    "confidence": 0.95,
+    "parse_warnings": [],
+    "opmerking_extractie": ""
+  }
+]

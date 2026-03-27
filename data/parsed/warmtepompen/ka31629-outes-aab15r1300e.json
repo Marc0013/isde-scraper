@@ -1,0 +1,27 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31629-outes-aab15r1300e",
+  "source_file": "",
+  "page_title": "KA31629 Outes AAb15R1/300E",
+  "parsed_timestamp": "2026-03-27T11:36:32Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31629",
+  "fabrikant": "Outes",
+  "model": "AAb15R1/300E",
+  "vermogen_kw": 0.0,
+  "vermogen_origineel": "0kW",
+  "naam_koudemiddel": "R134A",
+  "gwp": 1430,
+  "categorie": "Warmtepompboiler",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€725"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

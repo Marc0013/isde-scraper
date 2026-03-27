@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31692-weishauptmonarch-wbb-12-b-rmd-ai",
+  "source_file": "",
+  "page_title": "KA31692 Weishaupt/Monarch WBB 12-B-RMD-AI",
+  "parsed_timestamp": "2026-03-27T11:35:47Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31692",
+  "fabrikant": "Weishaupt/Monarch",
+  "model": "WBB 12-B-RMD-AI",
+  "vermogen_kw": 8.0,
+  "vermogen_origineel": "8kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2825.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€2.825"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1800.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€1.800"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 2825.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€2.825"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

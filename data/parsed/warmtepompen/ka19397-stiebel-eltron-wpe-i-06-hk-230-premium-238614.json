@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka19397-stiebel-eltron-wpe-i-06-hk-230-premium-238614",
+  "source_file": "",
+  "page_title": "KA19397 Stiebel-Eltron WPE-I 06 HK 230 Premium (238614)",
+  "parsed_timestamp": "2026-03-27T12:38:17Z",
+  "category": "warmtepomp",
+  "meldcode": "KA19397",
+  "fabrikant": "Stiebel-Eltron",
+  "model": "WPE-I 06 HK 230 Premium (238614)",
+  "vermogen_kw": 7.0,
+  "vermogen_origineel": "7kW",
+  "naam_koudemiddel": "R454C",
+  "gwp": 146,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.425"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 4425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€4.425"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 4425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€4.425"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

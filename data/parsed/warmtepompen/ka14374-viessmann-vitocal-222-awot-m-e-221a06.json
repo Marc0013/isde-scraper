@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka14374-viessmann-vitocal-222-awot-m-e-221a06",
+  "source_file": "",
+  "page_title": "KA14374 Viessmann Vitocal 222-A AWOT-M-E 221.A06",
+  "parsed_timestamp": "2026-03-27T12:46:10Z",
+  "category": "warmtepomp",
+  "meldcode": "KA14374",
+  "fabrikant": "Viessmann",
+  "model": "Vitocal 222-A AWOT-M-E 221.A06",
+  "vermogen_kw": 5.0,
+  "vermogen_origineel": "5kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2150.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€2.150"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1125.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€1.125"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 2150.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€2.150"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 2700.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€2.700"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

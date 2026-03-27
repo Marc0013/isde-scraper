@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31635-immergas-magis-m8-top",
+  "source_file": "",
+  "page_title": "KA31635 Immergas Magis M8 Top",
+  "parsed_timestamp": "2026-03-27T11:36:23Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31635",
+  "fabrikant": "Immergas",
+  "model": "Magis M8 Top",
+  "vermogen_kw": 7.0,
+  "vermogen_origineel": "7kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2800.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€2.800"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1575.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€1.575"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

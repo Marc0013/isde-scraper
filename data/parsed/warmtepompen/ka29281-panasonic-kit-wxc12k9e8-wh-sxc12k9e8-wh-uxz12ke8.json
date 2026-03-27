@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka29281-panasonic-kit-wxc12k9e8-wh-sxc12k9e8-wh-uxz12ke8",
+  "source_file": "",
+  "page_title": "KA29281 Panasonic KIT-WXC12K9E8 (WH-SXC12K9E8 + WH-UXZ12KE8)",
+  "parsed_timestamp": "2026-03-27T11:54:56Z",
+  "category": "warmtepomp",
+  "meldcode": "KA29281",
+  "fabrikant": "Panasonic",
+  "model": "KIT-WXC12K9E8 (WH-SXC12K9E8 + WH-UXZ12KE8)",
+  "vermogen_kw": 12.0,
+  "vermogen_origineel": "12kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3925.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.925"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2700.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.700"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 3925.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€3.925"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

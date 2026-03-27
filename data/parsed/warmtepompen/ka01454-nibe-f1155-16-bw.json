@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka01454-nibe-f1155-16-bw",
+  "source_file": "",
+  "page_title": "KA01454 NIBE F1155-16 (B/W)",
+  "parsed_timestamp": "2026-03-27T12:53:23Z",
+  "category": "warmtepomp",
+  "meldcode": "KA01454",
+  "fabrikant": "NIBE",
+  "model": "F1155-16 (B/W)",
+  "vermogen_kw": 16.0,
+  "vermogen_origineel": "16kW",
+  "naam_koudemiddel": "R407C",
+  "gwp": 1774,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 5325.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€5.325"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 5325.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€5.325"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 5325.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€5.325"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30917-bosch-cs3000awp-59-s",
+  "source_file": "",
+  "page_title": "KA30917 Bosch CS3000AWP 59 S",
+  "parsed_timestamp": "2026-03-27T11:42:45Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30917",
+  "fabrikant": "Bosch",
+  "model": "CS3000AWP 59 S",
+  "vermogen_kw": 52.0,
+  "vermogen_origineel": "52kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 12725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€12.725"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 11700.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€11.700"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 12725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€12.725"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

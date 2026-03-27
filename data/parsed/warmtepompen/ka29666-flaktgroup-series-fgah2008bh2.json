@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka29666-flaktgroup-series-fgah2008bh2",
+  "source_file": "",
+  "page_title": "KA29666 FläktGroup Series FGAH2008BH2",
+  "parsed_timestamp": "2026-03-27T11:52:18Z",
+  "category": "warmtepomp",
+  "meldcode": "KA29666",
+  "fabrikant": "FläktGroup Series",
+  "model": "FGAH2008BH2",
+  "vermogen_kw": 56.0,
+  "vermogen_origineel": "56kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 13625.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€13.625"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 12600.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€12.600"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 13625.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€13.625"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

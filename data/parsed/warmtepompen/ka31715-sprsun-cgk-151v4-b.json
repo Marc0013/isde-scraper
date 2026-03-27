@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31715-sprsun-cgk-151v4-b",
+  "source_file": "",
+  "page_title": "KA31715 SPRSUN CGK-151V4-B",
+  "parsed_timestamp": "2026-03-27T11:35:10Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31715",
+  "fabrikant": "SPRSUN",
+  "model": "CGK-151V4-B",
+  "vermogen_kw": 30.0,
+  "vermogen_origineel": "30kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 7975.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€7.975"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 6750.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€6.750"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31710-nulite-nl-flm60-220iir32",
+  "source_file": "",
+  "page_title": "KA31710 Nulite NL-FLM60-220II/R32",
+  "parsed_timestamp": "2026-03-27T11:35:20Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31710",
+  "fabrikant": "Nulite",
+  "model": "NL-FLM60-220II/R32",
+  "vermogen_kw": 15.0,
+  "vermogen_origineel": "15kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4600.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.600"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3375.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€3.375"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

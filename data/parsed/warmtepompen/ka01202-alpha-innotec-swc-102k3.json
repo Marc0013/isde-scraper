@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka01202-alpha-innotec-swc-102k3",
+  "source_file": "",
+  "page_title": "KA01202 Alpha Innotec SWC 102K3",
+  "parsed_timestamp": "2026-03-27T12:54:02Z",
+  "category": "warmtepomp",
+  "meldcode": "KA01202",
+  "fabrikant": "Alpha Innotec",
+  "model": "SWC 102K3",
+  "vermogen_kw": 11.0,
+  "vermogen_origineel": "11kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4575.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.575"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 4575.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€4.575"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 4575.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€4.575"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

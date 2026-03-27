@@ -1,0 +1,16 @@
+{
+  "url": "https://webform.rvo.nl/formule1/formulier/nl-NL/DR/scMachtIntermSubs.aspx",
+  "domain": "rvo.nl",
+  "file_type": "html",
+  "download_timestamp": "2026-03-27T09:26:41Z",
+  "file_path": "C:\\Users\\info\\OneDrive\\Documents\\Ontwikkeling website\\Tools en templates\\Scaper ISDE subsidies\\data\\raw\\html\\webform.rvo.nl_formule1_formulier_nl-NL_DR_scMachtIntermSubs_56aea5ce.html",
+  "file_size_bytes": 63670,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "page_title": null,
+  "source_page": null,
+  "detected_year": null,
+  "year_detection_method": null,
+  "category": null,
+  "blocked_external_links": []
+}

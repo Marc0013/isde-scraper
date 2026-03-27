@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka29997-daikin-ewye070czp-a2",
+  "source_file": "",
+  "page_title": "KA29997 Daikin EWYE070CZP-A2",
+  "parsed_timestamp": "2026-03-27T11:50:05Z",
+  "category": "warmtepomp",
+  "meldcode": "KA29997",
+  "fabrikant": "Daikin",
+  "model": "EWYE070CZP-A2",
+  "vermogen_kw": 47.0,
+  "vermogen_origineel": "47kW",
+  "naam_koudemiddel": "R454C",
+  "gwp": 146,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 11600.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€11.600"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 10575.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€10.575"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 11600.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€11.600"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka29659-flaktgroup-series-fgah1007bh2",
+  "source_file": "",
+  "page_title": "KA29659 FläktGroup Series FGAH1007BH2",
+  "parsed_timestamp": "2026-03-27T11:52:30Z",
+  "category": "warmtepomp",
+  "meldcode": "KA29659",
+  "fabrikant": "FläktGroup Series",
+  "model": "FGAH1007BH2",
+  "vermogen_kw": 48.0,
+  "vermogen_origineel": "48kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 11825.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€11.825"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 10800.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€10.800"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 11825.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€11.825"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

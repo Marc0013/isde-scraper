@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31226-interclima-mta-icyg-hp-017-xln",
+  "source_file": "",
+  "page_title": "KA31226 InterClima-MTA iCYG HP 017 XLN",
+  "parsed_timestamp": "2026-03-27T11:39:04Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31226",
+  "fabrikant": "InterClima-MTA",
+  "model": "iCYG HP 017 XLN",
+  "vermogen_kw": 43.0,
+  "vermogen_origineel": "43kW",
+  "naam_koudemiddel": "R454B",
+  "gwp": 466,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 10700.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€10.700"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 9675.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€9.675"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 10700.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€10.700"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

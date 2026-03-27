@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka19813-midea-mha-v4wd2n8-b-hb-a60cgn8-b",
+  "source_file": "",
+  "page_title": "KA19813 Midea MHA-V4W/D2N8-B + HB-A60/CGN8-B",
+  "parsed_timestamp": "2026-03-27T12:36:36Z",
+  "category": "warmtepomp",
+  "meldcode": "KA19813",
+  "fabrikant": "Midea",
+  "model": "MHA-V4W/D2N8-B + HB-A60/CGN8-B",
+  "vermogen_kw": 4.0,
+  "vermogen_origineel": "4kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1925.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€1.925"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 900.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€900"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 1925.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€1.925"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 2550.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€2.550"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31215-panasonic-wh-sdc0316m9e8-wh-wxg16me8",
+  "source_file": "",
+  "page_title": "KA31215 Panasonic WH-SDC0316M9E8 + WH-WXG16ME8",
+  "parsed_timestamp": "2026-03-27T11:39:22Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31215",
+  "fabrikant": "Panasonic",
+  "model": "WH-SDC0316M9E8 + WH-WXG16ME8",
+  "vermogen_kw": 17.0,
+  "vermogen_origineel": "17kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 5050.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€5.050"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3825.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€3.825"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 5050.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€5.050"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

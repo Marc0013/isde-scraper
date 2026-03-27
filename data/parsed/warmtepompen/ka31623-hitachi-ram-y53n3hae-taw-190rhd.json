@@ -1,0 +1,27 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31623-hitachi-ram-y53n3hae-taw-190rhd",
+  "source_file": "",
+  "page_title": "KA31623 Hitachi RAM-Y53N3HAE + TAW-190RHD",
+  "parsed_timestamp": "2026-03-27T11:36:42Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31623",
+  "fabrikant": "Hitachi",
+  "model": "RAM-Y53N3HAE + TAW-190RHD",
+  "vermogen_kw": 0.0,
+  "vermogen_origineel": "0kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Warmtepompboiler",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€725"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30276-trane-cxc-007",
+  "source_file": "",
+  "page_title": "KA30276 Trane CXC 007",
+  "parsed_timestamp": "2026-03-27T11:47:06Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30276",
+  "fabrikant": "Trane",
+  "model": "CXC 007",
+  "vermogen_kw": 17.0,
+  "vermogen_origineel": "17kW",
+  "naam_koudemiddel": "R454B",
+  "gwp": 466,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4850.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.850"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3825.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€3.825"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 4850.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€4.850"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

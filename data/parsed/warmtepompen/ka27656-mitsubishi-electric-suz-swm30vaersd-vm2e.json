@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka27656-mitsubishi-electric-suz-swm30vaersd-vm2e",
+  "source_file": "",
+  "page_title": "KA27656 Mitsubishi Electric SUZ-SWM30VA+ERSD-VM2E",
+  "parsed_timestamp": "2026-03-27T12:09:19Z",
+  "category": "warmtepomp",
+  "meldcode": "KA27656",
+  "fabrikant": "Mitsubishi Electric",
+  "model": "SUZ-SWM30VA+ERSD-VM2E",
+  "vermogen_kw": 4.0,
+  "vermogen_origineel": "4kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2125.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€2.125"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 900.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€900"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 2125.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€2.125"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 2775.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€2.775"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

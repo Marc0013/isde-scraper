@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka29309-waterkotte-ecotouch-50145-ai-nc-etg014515w",
+  "source_file": "",
+  "page_title": "KA29309 Waterkotte EcoTouch 5014.5 Ai NC ETG014515W",
+  "parsed_timestamp": "2026-03-27T11:54:13Z",
+  "category": "warmtepomp",
+  "meldcode": "KA29309",
+  "fabrikant": "Waterkotte",
+  "model": "EcoTouch 5014.5 Ai NC ETG014515W",
+  "vermogen_kw": 10.0,
+  "vermogen_origineel": "10kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Grond-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.425"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 4425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€4.425"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 4425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€4.425"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

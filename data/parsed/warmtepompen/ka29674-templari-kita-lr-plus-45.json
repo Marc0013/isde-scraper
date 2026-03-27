@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka29674-templari-kita-lr-plus-45",
+  "source_file": "",
+  "page_title": "KA29674 Templari Kita LR-PLUS-45",
+  "parsed_timestamp": "2026-03-27T11:52:06Z",
+  "category": "warmtepomp",
+  "meldcode": "KA29674",
+  "fabrikant": "Templari",
+  "model": "Kita LR-PLUS-45",
+  "vermogen_kw": 25.0,
+  "vermogen_origineel": "25kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 6850.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€6.850"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 5625.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€5.625"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 6850.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€6.850"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

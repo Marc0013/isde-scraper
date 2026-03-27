@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31618-rp-handels-und-service-ai-290-16-230v",
+  "source_file": "",
+  "page_title": "KA31618 RP Handels und Service AI-290-16-230V",
+  "parsed_timestamp": "2026-03-27T11:36:50Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31618",
+  "fabrikant": "RP Handels und Service",
+  "model": "AI-290-16-230V",
+  "vermogen_kw": 11.0,
+  "vermogen_origineel": "11kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3700.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.700"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2475.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.475"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

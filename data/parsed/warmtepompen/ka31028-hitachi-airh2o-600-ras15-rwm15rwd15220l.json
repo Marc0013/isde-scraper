@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31028-hitachi-airh2o-600-ras15-rwm15rwd15220l",
+  "source_file": "",
+  "page_title": "KA31028 Hitachi AirH2O 600 RAS1.5 + RWM1.5/RWD1.5(220L)",
+  "parsed_timestamp": "2026-03-27T11:41:19Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31028",
+  "fabrikant": "Hitachi",
+  "model": "AirH2O 600 RAS1.5 + RWM1.5/RWD1.5(220L)",
+  "vermogen_kw": 3.0,
+  "vermogen_origineel": "3kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1900.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€1.900"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 675.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€675"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 1900.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€1.900"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

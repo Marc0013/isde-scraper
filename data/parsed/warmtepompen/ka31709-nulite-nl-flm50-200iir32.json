@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31709-nulite-nl-flm50-200iir32",
+  "source_file": "",
+  "page_title": "KA31709 Nulite NL-FLM50-200II/R32",
+  "parsed_timestamp": "2026-03-27T11:35:25Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31709",
+  "fabrikant": "Nulite",
+  "model": "NL-FLM50-200II/R32",
+  "vermogen_kw": 13.0,
+  "vermogen_origineel": "13kW",
+  "naam_koudemiddel": "R032",
+  "gwp": 675,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 4150.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€4.150"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2925.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.925"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

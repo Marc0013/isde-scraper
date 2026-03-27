@@ -1,0 +1,48 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka25923-es-aw30-evi-m",
+  "source_file": "",
+  "page_title": "KA25923 ES AW30-EVI-M",
+  "parsed_timestamp": "2026-03-27T12:19:36Z",
+  "category": "warmtepomp",
+  "meldcode": "KA25923",
+  "fabrikant": "ES",
+  "model": "AW30-EVI-M",
+  "vermogen_kw": 24.0,
+  "vermogen_origineel": "24kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 6425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€6.425"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 5400.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€5.400"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 6425.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€6.425"
+    },
+    {
+      "jaar": 2024,
+      "jaar_eind": 2024,
+      "bedrag": 5550.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2024 tot en met 31/12/2024 :",
+      "waarde_origineel": "€5.550"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

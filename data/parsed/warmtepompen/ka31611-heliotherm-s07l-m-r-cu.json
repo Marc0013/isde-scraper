@@ -1,0 +1,34 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31611-heliotherm-s07l-m-r-cu",
+  "source_file": "",
+  "page_title": "KA31611 Heliotherm S07L-M-R-CU",
+  "parsed_timestamp": "2026-03-27T11:37:01Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31611",
+  "fabrikant": "Heliotherm",
+  "model": "S07L-M-R-CU",
+  "vermogen_kw": 8.0,
+  "vermogen_origineel": "8kW",
+  "naam_koudemiddel": "R410A",
+  "gwp": 2088,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3025.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.025"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 1800.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€1.800"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

@@ -1,0 +1,27 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka31628-outes-aab15r1200e",
+  "source_file": "",
+  "page_title": "KA31628 Outes AAb15R1/200E",
+  "parsed_timestamp": "2026-03-27T11:36:34Z",
+  "category": "warmtepomp",
+  "meldcode": "KA31628",
+  "fabrikant": "Outes",
+  "model": "AAb15R1/200E",
+  "vermogen_kw": 0.0,
+  "vermogen_origineel": "0kW",
+  "naam_koudemiddel": "R134A",
+  "gwp": 1430,
+  "categorie": "Warmtepompboiler",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€725"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

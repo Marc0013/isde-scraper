@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30302-trane-leaf-019-ln",
+  "source_file": "",
+  "page_title": "KA30302 Trane LEAF 019 LN",
+  "parsed_timestamp": "2026-03-27T11:46:24Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30302",
+  "fabrikant": "Trane",
+  "model": "LEAF 019 LN",
+  "vermogen_kw": 45.0,
+  "vermogen_origineel": "45kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 11150.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€11.150"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 10125.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€10.125"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 11150.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€11.150"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

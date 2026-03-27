@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30889-hitachi-airh2o-800m-rasm6vtw2e-cbx01hwmw2ehwd-w2e220s",
+  "source_file": "",
+  "page_title": "KA30889 Hitachi AirH2O 800M RASM6(V)TW2E (CBX01/HWMW2E/HWD-W2E220S)",
+  "parsed_timestamp": "2026-03-27T11:43:31Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30889",
+  "fabrikant": "Hitachi",
+  "model": "AirH2O 800M RASM6(V)TW2E (CBX01/HWMW2E/HWD-W2E220S)",
+  "vermogen_kw": 12.0,
+  "vermogen_origineel": "12kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 3725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€3.725"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 2700.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€2.700"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 3725.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€3.725"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}

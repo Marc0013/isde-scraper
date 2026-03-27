@@ -1,0 +1,41 @@
+{
+  "source_url": "https://www.rvo.nl/meldcodes-warmtepompen/ka30009-carrier-61aq080p",
+  "source_file": "",
+  "page_title": "KA30009 Carrier 61AQ080P",
+  "parsed_timestamp": "2026-03-27T11:49:46Z",
+  "category": "warmtepomp",
+  "meldcode": "KA30009",
+  "fabrikant": "Carrier",
+  "model": "61AQ080P",
+  "vermogen_kw": 58.0,
+  "vermogen_origineel": "58kW",
+  "naam_koudemiddel": "R290 (Propaan)",
+  "gwp": 3,
+  "categorie": "Lucht-Water",
+  "subsidiebedragen": [
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 14075.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2026 :",
+      "waarde_origineel": "€14.075"
+    },
+    {
+      "jaar": 2026,
+      "jaar_eind": null,
+      "bedrag": 13050.0,
+      "label_origineel": "Subsidiebedrag 2e warmtepomp vanaf 01/01/2026:",
+      "waarde_origineel": "€13.050"
+    },
+    {
+      "jaar": 2025,
+      "jaar_eind": 2025,
+      "bedrag": 14075.0,
+      "label_origineel": "Subsidiebedrag vanaf 01/01/2025 tot en met 31/12/2025 :",
+      "waarde_origineel": "€14.075"
+    }
+  ],
+  "confidence": 0.95,
+  "parse_warnings": [],
+  "opmerking_extractie": ""
+}
